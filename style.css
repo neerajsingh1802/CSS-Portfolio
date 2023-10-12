@@ -1,0 +1,133 @@
+ul{
+    background-color: darkblue;
+    list-style-type: none;
+    overflow: auto;
+}
+li{
+    color: whitesmoke;
+    padding: 10px 15px;
+    float:right;
+    margin: 20px;
+    font-size: large;
+}
+#p1{
+    padding: 50px;
+    height: 450px;
+    width: 100%;
+    background-color:skyblue;
+    margin-top: -14px;
+}
+#p2{
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 5px;
+}
+
+#p3{
+    margin-top: -200px;
+    margin-right: 150px;
+}
+
+#c2{
+    padding: 50px;
+    height: 450px;
+    width: 100%;
+    background-color:lightpink;
+    margin-top: -14px;
+}
+#c3{
+    margin-left: 500px;
+    margin-top: -50px;
+}
+#c4{
+    margin-top: -325px;
+    margin-right: 60px;
+}
+#t1{
+    padding: 50px;
+    height: 450px;
+    width: 100%;
+    background-color:lightgreen;
+    margin-top: -14px;
+    
+}
+#t2{
+    margin-left: 500px;
+    margin-top: -50px;
+}
+#t3{
+    margin-top: -5px;
+    margin-right: 60px;
+}
+
+
+
+#a1{
+    padding: 50px;
+    height: 450px;
+    width: 100%;
+    background-color:blueviolet;
+    margin-top: -14px;
+    
+}
+#a2{
+    margin-left: 500px;
+    margin-top: -50px;
+}
+#a3{
+    margin-top: -5px;
+    margin-right: 60px;
+    font-size: 16px;
+    text-shadow: 5px 5px 20px cornflowerblue;
+    color:black;
+}
+#a4{
+    margin-top:-350px ;
+    margin-left: 360px;
+}
+#a5{
+    border: 2px solid black;
+    height: 430px;
+    width: 160px;
+    background-color:pink;
+    margin-top: -300px;
+    
+}
+
+
+
+
+#b1{
+    padding: 50px;
+    height: 450px;
+    width: 100%;
+    background-color:wheat;
+    margin-top: -14px;
+    
+}
+#b2{
+    margin-left: 500px;
+    margin-top: -50px;
+}
+#b3{
+    margin-top: -100px;
+    margin-left: 630px;
+}
+
+
+#g1{
+    margin-top: -289px;
+    margin-left: 800px;
+}
+
+#u2{
+    margin-bottom: 40px;
+}
+
+#k1{
+    color: darkblue;
+}
+
